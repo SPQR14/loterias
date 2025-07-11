@@ -210,4 +210,5 @@ __marimo__/
 .directory
 .DS_Store
 .ds_store
+.virtual_documents
 
