@@ -14,7 +14,7 @@ This project aims to predict lottery numbers using various data science approach
 
 ## Project Structure
 ```
-lottery-prediction/
+loterias/
 ├── data/                   # Historical lottery data
 ├── notebooks/              # Jupyter notebooks for exploratory analysis
 ├── src/                    # Source code for models and utilities
